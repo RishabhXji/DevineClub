@@ -51,4 +51,4 @@ Project Nexus is a unified, intelligent ecosystem designed to revolutionize camp
 *   **Sobi**
 *   **Rishabh**
 
-*Project Nexus was developed as a submission for AIFusiion 2025. All rights reserved.*
+*Project Nexus was developed as a submission for AIFusiion 2026. All rights reserved.*
